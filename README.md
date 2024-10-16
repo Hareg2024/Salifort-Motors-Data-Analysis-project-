@@ -34,13 +34,11 @@ Variable Description
 ![image](https://github.com/user-attachments/assets/62398072-ed5d-486e-82ee-110cf3730a2f)
 
 
-
-![image](https://github.com/user-attachments/assets/26a2a41a-7988-4d4d-983c-be5956ac4365)
-
-
 2.2.2 Load dataset
 
 ![image](https://github.com/user-attachments/assets/538b8cd7-8947-4fe3-923b-2782d58b20aa)
+
+![image](https://github.com/user-attachments/assets/26a2a41a-7988-4d4d-983c-be5956ac4365)
 
 
 
