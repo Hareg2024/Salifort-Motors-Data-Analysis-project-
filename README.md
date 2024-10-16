@@ -65,7 +65,7 @@ Variable Description
 * Analyzing distributions in the data
 * Data transformations and ethical consideration
 
-Let's Explore the data: find the idea why the employees are leaving the company
+### Let's Explore the data: find the idea why the employees are leaving the company
 
 ![image](https://github.com/user-attachments/assets/d61b96fd-8a93-40ee-8524-51b63ac4dc7d)
 
@@ -79,5 +79,20 @@ It might be natural that people who work on more projects would also work longer
 4. The optimal number of projects for employees to work on seems to be 3–4. The ratio of left/stayed is very small for these cohorts. 
 5. If you assume a work week of 40 hours and two weeks of vacation per year, then the average number of working hours per month of employees working Monday–Friday = 50 weeks * 40 hours per week / 12 months = 166.67 hours per month. This means that, aside from the employees who worked on two projects, every group—even those who didn’t leave the company—worked considerably more hours than this. It seems that employees here are overworked. 
 
+### Exploring major factors of employee satifaction: Let's check the average monthly hours versus the satisfaction levels
 
+  ![image](https://github.com/user-attachments/assets/0de3ec20-b2a2-4987-96d5-8bd638f3af10)
+  
+The scatterplot above shows that there was a sizeable group of employees who worked ~240–315 hours per month.
+
+315 hours per month is over 75 hours per week for a whole year. It’s likely this is related to their satisfaction levels being close to zero. 
+The plot also shows another group of people who left, those who had more normal working hours. Even so, their satisfaction was only around 0.4.
+It’s difficult to speculate about why they might have left. It’s possible they felt pressured to work more, considering so many of their peers worked more.
+And that pressure could have lowered their satisfaction levels. 
+Finally, there is a group who worked ~210–280 hours per month, and they had satisfaction levels ranging ~0.7–0.9. 
+Note the strange shape of the distributions here. This is indicative of data manipulation or synthetic data. 
+
+
+
+  
 
