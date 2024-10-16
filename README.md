@@ -100,6 +100,24 @@ There are many observations we could make from this plot. - Employees who left f
 Four-year employees who left seem to have an unusually low satisfaction level. It’s worth investigating changes to company policy that might have affected people specifically at the four-year mark, if possible. 
 The longest-tenured employees didn’t leave. Their satisfaction levels aligned with those of newer employees who stayed. - The histogram shows that there are relatively few longer-tenured employees. It’s possible that they’re the higher-ranking, higher-paid employees. 
 
+### Let's examine salary levels for different tenures
+![image](https://github.com/user-attachments/assets/d9535c8e-a094-4b01-87e5-54d61514b7c0)
+
+* The plots above show that long-tenured employees were not disproportionately comprised of higher paid employees.
+* It's intersting to see whether there’s a correlation between working long hours and receiv ing high evaluation scores.
+
+  ![image](https://github.com/user-attachments/assets/7b961f95-54b3-4d31-881b-51477a7a70d3)
+
+  The following observations can be made from the scatterplot above:
+    * The scatterplot indicates two groups of employees who left: overworked employees who performed very well and employees who worked slightly under the nominal monthly average of 166.67 hours with lower evaluation scores.
+    * There seems to be a correlation between hours worked and evaluation score.
+    * There isn’t a high percentage of employees in the upper left quadrant of this plot; but working long hours doesn’t guarantee a good evaluation score.
+    * Most of the employees in this company work well over 167 hours per month. 
+
+
+
+
+
 
 
   
