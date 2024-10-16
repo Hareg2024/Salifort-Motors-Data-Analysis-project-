@@ -28,5 +28,7 @@ Variable Description
 • Import packages 
 • Load dataset 
 
+![image](https://github.com/user-attachments/assets/82a43793-dfb0-4386-9528-084a7786104f)
+
 
 
