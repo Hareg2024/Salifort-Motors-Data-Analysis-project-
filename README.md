@@ -29,9 +29,11 @@ Variable Description
 2.2 Step 1. Import python packages  
 *  Import packages 
 
-*  Load dataset 
+*  Load dataset
+*  
+![image](https://github.com/user-attachments/assets/62398072-ed5d-486e-82ee-110cf3730a2f)
 
-![image](https://github.com/user-attachments/assets/82a43793-dfb0-4386-9528-084a7786104f)
+
 
 ![image](https://github.com/user-attachments/assets/26a2a41a-7988-4d4d-983c-be5956ac4365)
 
