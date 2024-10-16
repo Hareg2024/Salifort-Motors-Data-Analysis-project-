@@ -41,3 +41,14 @@ Variable Description
 
 ![image](https://github.com/user-attachments/assets/26a2a41a-7988-4d4d-983c-be5956ac4365)
 
+2.3.1 Gather basic information about the data  
+
+![image](https://github.com/user-attachments/assets/9fe055e9-3162-42ff-9bb0-b6d08454ffcb)
+
+
+2.3.2 Gather descriptive statistics about the data 
+* Descriptiive statistics gives an idea if the data has significant outliers by looking at the min, max and 25%,50% 75% percentile data values.
+   
+![image](https://github.com/user-attachments/assets/7fc9049a-4014-4241-9c40-980a0b57ba45)
+
+
