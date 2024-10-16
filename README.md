@@ -63,12 +63,21 @@ Variable Description
 
 * Analyzing relationships between variables
 * Analyzing distributions in the data
-* Dat transformations and ethical consideration
+* Data transformations and ethical consideration
+
+Let's Explore the data: find the idea why the employees are leaving the company
 
 ![image](https://github.com/user-attachments/assets/d61b96fd-8a93-40ee-8524-51b63ac4dc7d)
 
 
 ![image](https://github.com/user-attachments/assets/30f8f9ea-0c91-4a99-a66c-08a55df8dd44)
+
+It might be natural that people who work on more projects would also work longer hours. This appears to be the case here, with the mean hours of each group (stayed and left) increasing with number of projects worked. However, a few things stand out from this plot. 
+1. There are two groups of employees who left the company: (A) those who worked considerably less than their peers with the same number of projects, and (B) those who worked much more. Of those in group A, it’s possible that they were fired. It’s also possible that this group includes employees who had already given their notice and were assigned fewer hours because they were already on their way out the door. For those in group B, it’s reasonable to infer that they probably quit. The folks in group B likely contributed a lot to the projects they worked in; they might have been the largest contributors to their projects.
+   
+3. Everyone with seven projects left the company, and the interquartile ranges of this group and those who left with six projects was ~255–295 hours/month—much more than any other group. 
+4. The optimal number of projects for employees to work on seems to be 3–4. The ratio of left/stayed is very small for these cohorts. 
+5. If you assume a work week of 40 hours and two weeks of vacation per year, then the average number of working hours per month of employees working Monday–Friday = 50 weeks * 40 hours per week / 12 months = 166.67 hours per month. This means that, aside from the employees who worked on two projects, every group—even those who didn’t leave the company—worked considerably more hours than this. It seems that employees here are overworked. 
 
 
 
