@@ -45,7 +45,7 @@ Variable Description
 
 ![image](https://github.com/user-attachments/assets/9fe055e9-3162-42ff-9bb0-b6d08454ffcb)
 
-### 2.3 Step 2. Data Exploration (Initial EDA and data cleaning) 
+### 2.3 Data Exploration (Initial EDA and data cleaning) 
 
 
 2.3.2 Gather descriptive statistics about the data 
