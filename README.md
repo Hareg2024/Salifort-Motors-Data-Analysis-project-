@@ -9,25 +9,27 @@ This project included an executive summary for external stakeholders and complet
 I
 ### 2 Project approach 
 2.1 Plan 
+
 2.1.1 Understand the business scenario and problem 
 The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. They collected data from employees, but now they don’t know what to do with it. The company wants to have data-driven suggestions based on understanding of the data. They have the following question: What’s likely to make the employee leave the company? 
 
 The goals of this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company. 
 If you can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company. 
+
 2.1.2 Familiarizing with the HR dataset 
 In the dataset, there are 14,999 rows, 10 columns, and these variables: 
 Variable Description 
 
 2.1.3 Questions to ask in the plan stage. 
-• Who are the stakeholders for this project? 
-• What are problems to solve or accomplish? 
-• What are the initial observations when exploring the data? 
-• What resources are available to complete this stage? 
-• Any ethical considerations at this stage? 
+*  Who are the stakeholders for this project? 
+*  What are problems to solve or accomplish? 
+*  What are the initial observations when exploring the data? 
+*  What resources are available to complete this stage? 
+*  Any ethical considerations at this stage? 
 2.2 Step 1. Import python packages  
-• Import packages 
+*  Import packages 
 
-• Load dataset 
+*  Load dataset 
 
 ![image](https://github.com/user-attachments/assets/82a43793-dfb0-4386-9528-084a7786104f)
 
