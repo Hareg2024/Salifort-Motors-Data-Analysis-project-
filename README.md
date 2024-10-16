@@ -51,4 +51,11 @@ Variable Description
    
 ![image](https://github.com/user-attachments/assets/7fc9049a-4014-4241-9c40-980a0b57ba45)
 
+### Data cleaning steps are included in the python notebook in the same repository 
+* Detecting dupliates and dropping legitimate duplicates
+* Renaming the columns to readable names
+* Capping outliers
+* Checking and replacing mising value if exist
+* 
+
 
