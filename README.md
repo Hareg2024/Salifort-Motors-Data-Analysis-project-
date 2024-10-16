@@ -41,7 +41,3 @@ Variable Description
 
 ![image](https://github.com/user-attachments/assets/26a2a41a-7988-4d4d-983c-be5956ac4365)
 
-
-
-
-
