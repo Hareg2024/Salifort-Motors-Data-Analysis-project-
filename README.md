@@ -26,9 +26,16 @@ Variable Description
 • Any ethical considerations at this stage? 
 2.2 Step 1. Import python packages  
 • Import packages 
+
 • Load dataset 
 
 ![image](https://github.com/user-attachments/assets/82a43793-dfb0-4386-9528-084a7786104f)
+
+2.2.2 Load dataset
+
+![image](https://github.com/user-attachments/assets/538b8cd7-8947-4fe3-923b-2782d58b20aa)
+
+
 
 
 
