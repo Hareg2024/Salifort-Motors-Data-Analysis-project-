@@ -92,6 +92,14 @@ And that pressure could have lowered their satisfaction levels.
 Finally, there is a group who worked ~210–280 hours per month, and they had satisfaction levels ranging ~0.7–0.9. 
 Note the strange shape of the distributions here. This is indicative of data manipulation or synthetic data. 
 
+###  Let's visualize the satisfaction levels by tenure and get more insights about the data
+
+![image](https://github.com/user-attachments/assets/89ea9f63-9edb-4cd0-a25a-858e5e4a1b5e)
+
+There are many observations we could make from this plot. - Employees who left fall into two general categories: dissatisfied employees with shorter tenures and very satisfied employees with medium-length tenures. 
+Four-year employees who left seem to have an unusually low satisfaction level. It’s worth investigating changes to company policy that might have affected people specifically at the four-year mark, if possible. 
+The longest-tenured employees didn’t leave. Their satisfaction levels aligned with those of newer employees who stayed. - The histogram shows that there are relatively few longer-tenured employees. It’s possible that they’re the higher-ranking, higher-paid employees. 
+
 
 
   
