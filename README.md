@@ -59,5 +59,16 @@ Variable Description
       * Capping outliers
       * Checking and replacing mising value if exist
         
-## 3  Analyze Stage 
+## 3.  Analyze Stage 
+
+* Analyzing relationships between variables
+* Analyzing distributions in the data
+* Dat transformations and ethical consideration
+
+![image](https://github.com/user-attachments/assets/d61b96fd-8a93-40ee-8524-51b63ac4dc7d)
+
+
+![image](https://github.com/user-attachments/assets/30f8f9ea-0c91-4a99-a66c-08a55df8dd44)
+
+
 
