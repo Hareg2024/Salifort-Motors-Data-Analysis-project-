@@ -25,7 +25,8 @@ Variable Description
 *  What are problems to solve or accomplish? 
 *  What are the initial observations when exploring the data? 
 *  What resources are available to complete this stage? 
-*  Any ethical considerations at this stage? 
+*  Any ethical considerations at this stage?
+  
 2.2 Step 1. Import python packages  
 *  Import packages 
 
