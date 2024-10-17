@@ -113,17 +113,21 @@ The longest-tenured employees didn’t leave. Their satisfaction levels aligned 
     * There seems to be a correlation between hours worked and evaluation score.
     * There isn’t a high percentage of employees in the upper left quadrant of this plot; but working long hours doesn’t guarantee a good evaluation score.
     * Most of the employees in this company work well over 167 hours per month.
-    * Intesrting questionto ask at this stage would be: whether employees who worked very long hours were promoted in the last five years.
+    * Interesting questionto ask at this stage would be: whether employees who worked very long hours were promoted in the last five years.
 
       ![image](https://github.com/user-attachments/assets/1838fadb-0a0e-4bf8-b36a-2998febbb8b3)
 
       The plot above shows the following:
-            * very few employees who were promoted in the last five years left
+      
+            * very few employees who were promoted in the last five years left            
             * very few employees who worked the most hours were promoted
             * all of the employees who left were working the longest hours 
 
-
-
+      * Will it be an issue across the department that makes them leave?
+    
+    ![image](https://github.com/user-attachments/assets/ed61c266-e6d0-4e6e-b407-44945fa759c9)
+  
+       * There doesn’t seem to be any department that differs significantly in its proportion of employees who left to those who stayed
 
 
 
