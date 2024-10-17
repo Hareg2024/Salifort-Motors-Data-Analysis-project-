@@ -59,7 +59,7 @@ Variable Description
       * Capping outliers
       * Checking and replacing mising value if exist
         
-## 3.  Analyze Stage 
+## 2.3.  Analyze Stage 
 
 * Analyzing relationships between variables
 * Analyzing distributions in the data
@@ -134,6 +134,14 @@ It appears that employees are leaving the company as a result of poor management
 It can be ungratifying to work long hours and not receive promotions or good evaluation scores. There’s a sizeable group of employees at this company who are probably burned out.
 It also appears that if an employee has spent more than six years at the company, they tend not to leave. 
 
+
+## 3. Model building 
+* goal is to predict whether an employee leaves the company, which is a categorical outcome variable.
+  So this task involves classification. More specifically, this involves binary classification, since the outcome variable left can be either 1 (indicating employee left) or 0 (indicating employee didn’t leave).
+* Identify the types of models most appropriate for this task.Since the variable we want to predict (whether an employee leaves the company) is categorical,
+  we could either build a Logistic Regression model, or a Tree-based Machine Learning model
+
+### Modeling Approach A: Logistic Regression Model
 
 
 
