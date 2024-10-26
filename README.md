@@ -147,7 +147,32 @@ It also appears that if an employee has spent more than six years at the company
 
   ![image](https://github.com/user-attachments/assets/9e9b8fa1-8f9f-4fc6-bcd2-29bb6fc6863e)
 
-### Modeling Approach A: Logistic Regression Model
+### Modeling Approach A: Logistic Regression Model --> please refer the python notebook for the details 
+   The steps to build a model and evaluate the results are as follow:
+   * Prepare the data for the model: Removing redundet varaible, encoding categorical variable to numberic
+   * Split the data to training and test dataset
+   * Fit a model that predicts the outcome variable using two or more independent variables
+   * Check model assumptions
+   * Evaluate the model 
+
+#### Logistic regression Model output Evaluation 
+
+![image](https://github.com/user-attachments/assets/4fa3bda9-d1ef-4e28-83d9-1b65e71b06fd)
+
+* The upper-left quadrant displays the number of true negatives. The upper-right quadrant displays the number of false positives.
+* The bottom-left quadrant displays the number of false negatives. The bottom-right quadrant displays the number of true positives. 
+* True negatives: The number of people who did not leave that the model accurately predicted did not leave.
+* False positives: The number of people who did not leave the model inaccurately predicted as leaving. 
+* False negatives: The number of people who left that the model inaccurately predicted did not leave True positives: The number of people who left the model accurately predicted as leaving 
+A perfect model would yield all true negatives and true positives, and no false negatives or false positives.
+
+Let's create a classification report that includes precision, recall, f1-score, and accuracy metrics to evaluate the performance of the logistic regression model.
+![image](https://github.com/user-attachments/assets/c105c729-940f-4e8d-9b09-92e6588cfc1b)
+
+The classification report above shows that the logistic regression model achieved a precision of 79%, recall of 82%, f1-score of 80% (all weighted averages), and accuracy of 82%. 
+However, if it’s most important to predict employees who leave, then the scores are significantly lower. 
+ 
+
 
 
 
