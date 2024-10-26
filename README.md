@@ -172,8 +172,17 @@ Let's create a classification report that includes precision, recall, f1-score, 
 The classification report above shows that the logistic regression model achieved a precision of 79%, recall of 82%, f1-score of 80% (all weighted averages), and accuracy of 82%. 
 However, if it’s most important to predict employees who leave, then the scores are significantly lower. 
  
+#### Modeling Approach B: Tree-based Model 
+ * Let's try the second model , tree-based Model and compare the results
+ * This approach covers implementation of Decision Tree and Random Forest.
+ * The Model result is shown below
 
+   ![image](https://github.com/user-attachments/assets/9a14946f-5a91-4fd8-a3a8-6b855575a0ba)
+All of these scores from the decision tree model are strong indicators of good model performance. 
+Decision trees can be vulnerable to overfitting, and random forests avoid overfitting by incorporating multiple trees to make predictions.
+Let's construct a random forest model next and campare the results  
 
+#### Modeling Approach C: Random forest model 
 
 
   
