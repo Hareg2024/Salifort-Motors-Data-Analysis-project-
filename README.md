@@ -136,10 +136,16 @@ It also appears that if an employee has spent more than six years at the company
 
 
 ## 3. Model building 
-* goal is to predict whether an employee leaves the company, which is a categorical outcome variable.
+* The goal is to predict whether an employee leaves the company, which is a categorical outcome variable.
   So this task involves classification. More specifically, this involves binary classification, since the outcome variable left can be either 1 (indicating employee left) or 0 (indicating employee didn’t leave).
-* Identify the types of models most appropriate for this task.Since the variable we want to predict (whether an employee leaves the company) is categorical,
+* Identifying the types of models most appropriate for this task invloves some steps, such as feature reduction: meaning removing the varaibles that proves redundent information based on the varaible correlation Analysis.
+* Selecting the right model based the problem we want to sold. In this project case since the variable we want to predict (whether an employee leaves the company) is categorical,
   we could either build a Logistic Regression model, or a Tree-based Machine Learning model
+### Understand the correlation between varaible
+* The correlation heatmap confirms that the number of projects, monthly hours, and
+* Evaluation scores all have some positive correlation with each other, and whether an employee leaves is negatively correlated with their satisfaction level
+
+  ![image](https://github.com/user-attachments/assets/9e9b8fa1-8f9f-4fc6-bcd2-29bb6fc6863e)
 
 ### Modeling Approach A: Logistic Regression Model
 
